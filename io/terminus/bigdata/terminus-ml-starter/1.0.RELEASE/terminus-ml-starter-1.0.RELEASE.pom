@@ -13,8 +13,7 @@
 	<parent>
 		<groupId>io.terminus.bigdata</groupId>
 		<artifactId>T-ML</artifactId>
-		<version>${ml.project.version}</version>
-        <relativePath>../</relativePath>
+		<version>1.0.RELEASE</version>
 	</parent>
 
 	<properties>
