@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 11 10:00:32 CST 2018
+geocoding-1.0.jar>=
+geocoding-1.0-sources.jar>=
+geocoding-1.0.pom>=
