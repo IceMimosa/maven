@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 09 11:44:38 CST 2020
+geocoding-1.1.5.jar>=
+geocoding-1.1.5-sources.jar>=
+geocoding-1.1.5.pom>=
